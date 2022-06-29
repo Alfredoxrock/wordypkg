@@ -1,0 +1,2023 @@
+[
+  {
+    "meta": {
+      "id": "mountain",
+      "uuid": "af7b4117-d9eb-4893-a783-38475ddd8782",
+      "src": "coll_thes",
+      "section": "alpha",
+      "target": {
+        "tuuid": "48b57a15-99c1-4332-83b7-60df144225ee",
+        "tsrc": "collegiate"
+      },
+      "stems": [
+        "mountain",
+        "mountains"
+      ],
+      "syns": [
+        [
+          "alp",
+          "hump",
+          "mount",
+          "peak"
+        ],
+        [
+          "abundance",
+          "barrel",
+          "basketful",
+          "boatload",
+          "bucket",
+          "bunch",
+          "bundle",
+          "bushel",
+          "carload",
+          "chunk",
+          "deal",
+          "dozen",
+          "fistful",
+          "gobs",
+          "good deal",
+          "heap",
+          "hundred",
+          "lashings",
+          "loads",
+          "lot",
+          "mass",
+          "mess",
+          "much",
+          "multiplicity",
+          "myriad",
+          "oodles",
+          "pack",
+          "passel",
+          "peck",
+          "pile",
+          "plateful",
+          "plenitude",
+          "plentitude",
+          "plenty",
+          "pot",
+          "potful",
+          "profusion",
+          "quantity",
+          "raft",
+          "reams",
+          "scads",
+          "sheaf",
+          "shipload",
+          "sight",
+          "slew",
+          "spate",
+          "stack",
+          "store",
+          "ton",
+          "truckload",
+          "volume",
+          "wad",
+          "wealth",
+          "yard"
+        ],
+        [
+          "cock",
+          "heap",
+          "hill",
+          "mound",
+          "pile",
+          "stack"
+        ]
+      ],
+      "ants": [
+        [
+          "ace",
+          "bit",
+          "dab",
+          "dram",
+          "driblet",
+          "glimmer",
+          "handful",
+          "hint",
+          "lick",
+          "little",
+          "mite",
+          "mouthful",
+          "nip",
+          "ounce",
+          "peanuts",
+          "pinch",
+          "pittance",
+          "scruple",
+          "shade",
+          "shadow",
+          "smidgen",
+          "speck",
+          "spot",
+          "sprinkle",
+          "sprinkling",
+          "strain",
+          "streak",
+          "suspicion",
+          "tad",
+          "taste",
+          "touch",
+          "trace"
+        ]
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "mountain"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1",
+                "dt": [
+                  [
+                    "text",
+                    "an elevation of land higher than a hill "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "my cousin likes to climb {it}mountains{/it} just because she can"
+                      }
+                    ]
+                  ]
+                ],
+                "syn_list": [
+                  [
+                    {
+                      "wd": "alp"
+                    },
+                    {
+                      "wd": "hump"
+                    },
+                    {
+                      "wd": "mount"
+                    },
+                    {
+                      "wd": "peak"
+                    }
+                  ]
+                ],
+                "rel_list": [
+                  [
+                    {
+                      "wd": "cordillera"
+                    },
+                    {
+                      "wd": "mountain range"
+                    },
+                    {
+                      "wd": "range"
+                    },
+                    {
+                      "wd": "sierra"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "inselberg"
+                    },
+                    {
+                      "wd": "knob"
+                    },
+                    {
+                      "wd": "seamount"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "aiguille"
+                    },
+                    {
+                      "wd": "horn"
+                    },
+                    {
+                      "wd": "mountaintop"
+                    },
+                    {
+                      "wd": "pinnacle"
+                    },
+                    {
+                      "wd": "summit"
+                    }
+                  ]
+                ],
+                "near_list": [
+                  [
+                    {
+                      "wd": "basin"
+                    },
+                    {
+                      "wd": "bowl"
+                    },
+                    {
+                      "wd": "depression"
+                    },
+                    {
+                      "wd": "hollow"
+                    },
+                    {
+                      "wd": "vale"
+                    },
+                    {
+                      "wd": "valley"
+                    }
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "text",
+                    "a considerable amount "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "receives a {it}mountain{/it} of mail every year for the holidays"
+                      }
+                    ]
+                  ]
+                ],
+                "syn_list": [
+                  [
+                    {
+                      "wd": "abundance"
+                    },
+                    {
+                      "wd": "barrel"
+                    },
+                    {
+                      "wd": "basketful"
+                    },
+                    {
+                      "wd": "boatload"
+                    },
+                    {
+                      "wd": "bucket"
+                    },
+                    {
+                      "wd": "bunch"
+                    },
+                    {
+                      "wd": "bundle"
+                    },
+                    {
+                      "wd": "bushel"
+                    },
+                    {
+                      "wd": "carload"
+                    },
+                    {
+                      "wd": "chunk"
+                    },
+                    {
+                      "wd": "deal"
+                    },
+                    {
+                      "wd": "dozen"
+                    },
+                    {
+                      "wd": "fistful"
+                    },
+                    {
+                      "wd": "gobs"
+                    },
+                    {
+                      "wd": "good deal"
+                    },
+                    {
+                      "wd": "heap"
+                    },
+                    {
+                      "wd": "hundred"
+                    },
+                    {
+                      "wd": "lashings",
+                      "wvrs": [
+                        {
+                          "wvl": "also",
+                          "wva": "lashins"
+                        }
+                      ],
+                      "wsls": [
+                        "chiefly British"
+                      ]
+                    },
+                    {
+                      "wd": "loads"
+                    },
+                    {
+                      "wd": "lot"
+                    },
+                    {
+                      "wd": "mass"
+                    },
+                    {
+                      "wd": "mess"
+                    },
+                    {
+                      "wd": "much"
+                    },
+                    {
+                      "wd": "multiplicity"
+                    },
+                    {
+                      "wd": "myriad"
+                    },
+                    {
+                      "wd": "oodles"
+                    },
+                    {
+                      "wd": "pack"
+                    },
+                    {
+                      "wd": "passel"
+                    },
+                    {
+                      "wd": "peck"
+                    },
+                    {
+                      "wd": "pile"
+                    },
+                    {
+                      "wd": "plateful"
+                    },
+                    {
+                      "wd": "plenitude"
+                    },
+                    {
+                      "wd": "plentitude"
+                    },
+                    {
+                      "wd": "plenty"
+                    },
+                    {
+                      "wd": "pot"
+                    },
+                    {
+                      "wd": "potful"
+                    },
+                    {
+                      "wd": "profusion"
+                    },
+                    {
+                      "wd": "quantity"
+                    },
+                    {
+                      "wd": "raft"
+                    },
+                    {
+                      "wd": "reams"
+                    },
+                    {
+                      "wd": "scads"
+                    },
+                    {
+                      "wd": "sheaf"
+                    },
+                    {
+                      "wd": "shipload"
+                    },
+                    {
+                      "wd": "sight"
+                    },
+                    {
+                      "wd": "slew"
+                    },
+                    {
+                      "wd": "spate"
+                    },
+                    {
+                      "wd": "stack"
+                    },
+                    {
+                      "wd": "store"
+                    },
+                    {
+                      "wd": "ton"
+                    },
+                    {
+                      "wd": "truckload"
+                    },
+                    {
+                      "wd": "volume"
+                    },
+                    {
+                      "wd": "wad"
+                    },
+                    {
+                      "wd": "wealth"
+                    },
+                    {
+                      "wd": "yard"
+                    }
+                  ]
+                ],
+                "rel_list": [
+                  [
+                    {
+                      "wd": "epidemic"
+                    },
+                    {
+                      "wd": "plague"
+                    },
+                    {
+                      "wd": "rash"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "bonanza"
+                    },
+                    {
+                      "wd": "embarrassment"
+                    },
+                    {
+                      "wd": "excess"
+                    },
+                    {
+                      "wd": "overabundance"
+                    },
+                    {
+                      "wd": "overage"
+                    },
+                    {
+                      "wd": "overkill"
+                    },
+                    {
+                      "wd": "overmuch"
+                    },
+                    {
+                      "wd": "oversupply"
+                    },
+                    {
+                      "wd": "plethora"
+                    },
+                    {
+                      "wd": "redundancy"
+                    },
+                    {
+                      "wd": "superabundance"
+                    },
+                    {
+                      "wd": "superfluity"
+                    },
+                    {
+                      "wd": "surfeit"
+                    },
+                    {
+                      "wd": "surplus"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "deluge"
+                    },
+                    {
+                      "wd": "flood"
+                    },
+                    {
+                      "wd": "overflow"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "army"
+                    },
+                    {
+                      "wd": "bevy"
+                    },
+                    {
+                      "wd": "cram"
+                    },
+                    {
+                      "wd": "crowd"
+                    },
+                    {
+                      "wd": "crush"
+                    },
+                    {
+                      "wd": "drove"
+                    },
+                    {
+                      "wd": "flock"
+                    },
+                    {
+                      "wd": "herd"
+                    },
+                    {
+                      "wd": "horde"
+                    },
+                    {
+                      "wd": "host"
+                    },
+                    {
+                      "wd": "legion"
+                    },
+                    {
+                      "wd": "mob"
+                    },
+                    {
+                      "wd": "multitude"
+                    },
+                    {
+                      "wd": "press"
+                    },
+                    {
+                      "wd": "score"
+                    },
+                    {
+                      "wd": "sea"
+                    },
+                    {
+                      "wd": "swarm"
+                    },
+                    {
+                      "wd": "throng"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "gazillion"
+                    },
+                    {
+                      "wd": "jillion"
+                    },
+                    {
+                      "wd": "kazillion"
+                    },
+                    {
+                      "wd": "million"
+                    },
+                    {
+                      "wd": "thousands"
+                    },
+                    {
+                      "wd": "trillion"
+                    },
+                    {
+                      "wd": "zillion"
+                    }
+                  ]
+                ],
+                "phrase_list": [
+                  [
+                    {
+                      "wd": "all kinds (of)"
+                    },
+                    {
+                      "wd": "quite a bit"
+                    }
+                  ]
+                ],
+                "near_list": [
+                  [
+                    {
+                      "wd": "atom"
+                    },
+                    {
+                      "wd": "crumb"
+                    },
+                    {
+                      "wd": "dot"
+                    },
+                    {
+                      "wd": "fleck"
+                    },
+                    {
+                      "wd": "flyspeck"
+                    },
+                    {
+                      "wd": "fragment"
+                    },
+                    {
+                      "wd": "grain"
+                    },
+                    {
+                      "wd": "granule"
+                    },
+                    {
+                      "wd": "iota"
+                    },
+                    {
+                      "wd": "jot"
+                    },
+                    {
+                      "wd": "modicum"
+                    },
+                    {
+                      "wd": "molecule"
+                    },
+                    {
+                      "wd": "mote"
+                    },
+                    {
+                      "wd": "nubbin"
+                    },
+                    {
+                      "wd": "particle"
+                    },
+                    {
+                      "wd": "ray"
+                    },
+                    {
+                      "wd": "scintilla"
+                    },
+                    {
+                      "wd": "scrap"
+                    },
+                    {
+                      "wd": "shred"
+                    },
+                    {
+                      "wd": "tittle"
+                    },
+                    {
+                      "wd": "whit"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "smatter"
+                    },
+                    {
+                      "wd": "smattering"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "dash"
+                    },
+                    {
+                      "wd": "drop"
+                    },
+                    {
+                      "wd": "morsel"
+                    },
+                    {
+                      "wd": "shot"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "piece"
+                    },
+                    {
+                      "wd": "portion"
+                    },
+                    {
+                      "wd": "section"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "absence"
+                    },
+                    {
+                      "wd": "dearth"
+                    },
+                    {
+                      "wd": "famine"
+                    },
+                    {
+                      "wd": "lack"
+                    },
+                    {
+                      "wd": "paucity"
+                    },
+                    {
+                      "wd": "poverty"
+                    },
+                    {
+                      "wd": "scarceness"
+                    },
+                    {
+                      "wd": "scarcity"
+                    },
+                    {
+                      "wd": "shortage"
+                    },
+                    {
+                      "wd": "undersupply"
+                    },
+                    {
+                      "wd": "want"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "deficiency"
+                    },
+                    {
+                      "wd": "deficit"
+                    },
+                    {
+                      "wd": "inadequacy"
+                    },
+                    {
+                      "wd": "insufficiency"
+                    },
+                    {
+                      "wd": "meagerness"
+                    },
+                    {
+                      "wd": "scantiness"
+                    },
+                    {
+                      "wd": "scantness"
+                    },
+                    {
+                      "wd": "skimpiness"
+                    }
+                  ]
+                ],
+                "ant_list": [
+                  [
+                    {
+                      "wd": "ace"
+                    },
+                    {
+                      "wd": "bit"
+                    },
+                    {
+                      "wd": "dab"
+                    },
+                    {
+                      "wd": "dram"
+                    },
+                    {
+                      "wd": "driblet"
+                    },
+                    {
+                      "wd": "glimmer"
+                    },
+                    {
+                      "wd": "handful"
+                    },
+                    {
+                      "wd": "hint"
+                    },
+                    {
+                      "wd": "lick"
+                    },
+                    {
+                      "wd": "little"
+                    },
+                    {
+                      "wd": "mite"
+                    },
+                    {
+                      "wd": "mouthful"
+                    },
+                    {
+                      "wd": "nip"
+                    },
+                    {
+                      "wd": "ounce"
+                    },
+                    {
+                      "wd": "peanuts"
+                    },
+                    {
+                      "wd": "pinch"
+                    },
+                    {
+                      "wd": "pittance"
+                    },
+                    {
+                      "wd": "scruple"
+                    },
+                    {
+                      "wd": "shade"
+                    },
+                    {
+                      "wd": "shadow"
+                    },
+                    {
+                      "wd": "smidgen",
+                      "wvrs": [
+                        {
+                          "wvl": "also",
+                          "wva": "smidgeon"
+                        },
+                        {
+                          "wvl": "or",
+                          "wva": "smidgin"
+                        },
+                        {
+                          "wvl": "or",
+                          "wva": "smidge"
+                        }
+                      ]
+                    },
+                    {
+                      "wd": "speck"
+                    },
+                    {
+                      "wd": "spot"
+                    },
+                    {
+                      "wd": "sprinkle"
+                    },
+                    {
+                      "wd": "sprinkling"
+                    },
+                    {
+                      "wd": "strain"
+                    },
+                    {
+                      "wd": "streak"
+                    },
+                    {
+                      "wd": "suspicion"
+                    },
+                    {
+                      "wd": "tad"
+                    },
+                    {
+                      "wd": "taste"
+                    },
+                    {
+                      "wd": "touch"
+                    },
+                    {
+                      "wd": "trace"
+                    }
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "3",
+                "dt": [
+                  [
+                    "text",
+                    "a quantity of things thrown or stacked on one another "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "he piled a {it}mountain{/it} of mashed potatoes on his plate"
+                      }
+                    ]
+                  ]
+                ],
+                "syn_list": [
+                  [
+                    {
+                      "wd": "cock"
+                    },
+                    {
+                      "wd": "heap"
+                    },
+                    {
+                      "wd": "hill"
+                    },
+                    {
+                      "wd": "mound"
+                    },
+                    {
+                      "wd": "pile"
+                    },
+                    {
+                      "wd": "stack"
+                    }
+                  ]
+                ],
+                "rel_list": [
+                  [
+                    {
+                      "wd": "bank"
+                    },
+                    {
+                      "wd": "bar"
+                    },
+                    {
+                      "wd": "drift"
+                    },
+                    {
+                      "wd": "embankment"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "bed"
+                    },
+                    {
+                      "wd": "layer"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "mow"
+                    },
+                    {
+                      "wd": "pyramid"
+                    },
+                    {
+                      "wd": "rick"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "barrow"
+                    },
+                    {
+                      "wd": "cairn"
+                    },
+                    {
+                      "wd": "pyre"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "accumulation"
+                    },
+                    {
+                      "wd": "aggregate"
+                    },
+                    {
+                      "wd": "array"
+                    },
+                    {
+                      "wd": "assemblage"
+                    },
+                    {
+                      "wd": "collection"
+                    },
+                    {
+                      "wd": "conglomeration"
+                    },
+                    {
+                      "wd": "gathering"
+                    },
+                    {
+                      "wd": "grouping"
+                    },
+                    {
+                      "wd": "hoard"
+                    },
+                    {
+                      "wd": "huddle"
+                    },
+                    {
+                      "wd": "jumble"
+                    },
+                    {
+                      "wd": "knot"
+                    },
+                    {
+                      "wd": "pileup"
+                    }
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "an elevation of land higher than a hill",
+      "a considerable amount",
+      "a quantity of things thrown or stacked on one another"
+    ]
+  },
+  {
+    "meta": {
+      "id": "mountain dew",
+      "uuid": "c05972c6-6c4c-40cc-beab-714b61a1a604",
+      "src": "coll_thes",
+      "section": "alpha",
+      "target": {
+        "tuuid": "e606f67c-1db2-4143-b685-d1b364eea707",
+        "tsrc": "collegiate"
+      },
+      "stems": [
+        "mountain dew",
+        "mountain dews"
+      ],
+      "syns": [
+        [
+          "bootleg",
+          "moonshine",
+          "white lightning"
+        ]
+      ],
+      "ants": [],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "mountain dew"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "illegally produced liquor "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "one sip of the hillbilly's potent {it}mountain dew{/it} left inexperienced drinkers gasping"
+                      }
+                    ]
+                  ]
+                ],
+                "syn_list": [
+                  [
+                    {
+                      "wd": "bootleg"
+                    },
+                    {
+                      "wd": "moonshine"
+                    },
+                    {
+                      "wd": "white lightning"
+                    }
+                  ]
+                ],
+                "rel_list": [
+                  [
+                    {
+                      "wd": "bathtub gin"
+                    },
+                    {
+                      "wd": "red-eye"
+                    },
+                    {
+                      "wd": "rotgut"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "alcohol"
+                    },
+                    {
+                      "wd": "ardent spirits"
+                    },
+                    {
+                      "wd": "booze"
+                    },
+                    {
+                      "wd": "drink"
+                    },
+                    {
+                      "wd": "firewater"
+                    },
+                    {
+                      "wd": "grog"
+                    },
+                    {
+                      "wd": "hooch",
+                      "wsls": [
+                        "slang"
+                      ]
+                    },
+                    {
+                      "wd": "John Barleycorn"
+                    },
+                    {
+                      "wd": "juice",
+                      "wsls": [
+                        "slang"
+                      ]
+                    },
+                    {
+                      "wd": "potable"
+                    },
+                    {
+                      "wd": "rum"
+                    },
+                    {
+                      "wd": "spirits"
+                    },
+                    {
+                      "wd": "strong drink"
+                    },
+                    {
+                      "wd": "tipple"
+                    }
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "illegally produced liquor"
+    ]
+  },
+  {
+    "meta": {
+      "id": "mountain lion",
+      "uuid": "1d139c7f-7613-4867-a2c1-0584898d88d2",
+      "src": "coll_thes",
+      "section": "alpha",
+      "target": {
+        "tuuid": "a363e163-7c8b-4f15-98b6-6e7825afae67",
+        "tsrc": "collegiate"
+      },
+      "stems": [
+        "mountain lion",
+        "mountain lions"
+      ],
+      "syns": [
+        [
+          "cat-a-mountain",
+          "catamount",
+          "cougar",
+          "panther",
+          "puma"
+        ]
+      ],
+      "ants": [],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "mountain lion"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "a large tawny cat of the wild "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "the problems created by {it}mountain lions{/it} coming into contact with humans in suburban developments"
+                      }
+                    ]
+                  ]
+                ],
+                "syn_list": [
+                  [
+                    {
+                      "wd": "cat-a-mountain"
+                    },
+                    {
+                      "wd": "catamount"
+                    },
+                    {
+                      "wd": "cougar"
+                    },
+                    {
+                      "wd": "panther"
+                    },
+                    {
+                      "wd": "puma"
+                    }
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "a large tawny cat of the wild"
+    ]
+  },
+  {
+    "meta": {
+      "id": "mountain bike",
+      "uuid": "f6204176-2833-47ec-b7f7-045cee2a6d4c",
+      "src": "CTcompile",
+      "section": "alpha",
+      "stems": [
+        "mountain bike"
+      ],
+      "syns": [
+        [
+          "tandem bicycle",
+          "ten-speed",
+          "bicycle",
+          "bike",
+          "cycle",
+          "push-bike",
+          "two-wheeler",
+          "velocipede"
+        ]
+      ],
+      "ants": [],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "mountain bike"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "as in {it}tandem bicycle{/it}, {it}ten-speed{/it}"
+                  ]
+                ],
+                "sim_list": [
+                  [
+                    {
+                      "wd": "tandem bicycle"
+                    },
+                    {
+                      "wd": "ten-speed"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "bicycle"
+                    },
+                    {
+                      "wd": "bike"
+                    },
+                    {
+                      "wd": "cycle"
+                    },
+                    {
+                      "wd": "push-bike",
+                      "wvrs": [
+                        {
+                          "wvl": "also",
+                          "wva": "push bicycle"
+                        }
+                      ],
+                      "wsls": [
+                        "British"
+                      ]
+                    },
+                    {
+                      "wd": "two-wheeler"
+                    },
+                    {
+                      "wd": "velocipede",
+                      "wsls": [
+                        "archaic"
+                      ]
+                    }
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "as in tandem bicycle, ten-speed"
+    ]
+  },
+  {
+    "meta": {
+      "id": "mountain bikes",
+      "uuid": "6cf33712-6431-438b-9463-83c94689f4e9",
+      "src": "CTcompile",
+      "section": "alpha",
+      "stems": [
+        "mountain bikes"
+      ],
+      "syns": [
+        [
+          "tandem bicycles",
+          "ten-speeds",
+          "bicycles",
+          "bikes",
+          "cycles",
+          "push-bikes",
+          "two-wheelers",
+          "velocipedes"
+        ]
+      ],
+      "ants": [],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "mountain bikes"
+    },
+    "fl": "noun",
+    "sls": [
+      "plural of {d_link|mountain bike|mountain bike}"
+    ],
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "as in {it}tandem bicycles{/it}, {it}ten-speeds{/it}"
+                  ]
+                ],
+                "sim_list": [
+                  [
+                    {
+                      "wd": "tandem bicycles"
+                    },
+                    {
+                      "wd": "ten-speeds"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "bicycles"
+                    },
+                    {
+                      "wd": "bikes"
+                    },
+                    {
+                      "wd": "cycles"
+                    },
+                    {
+                      "wd": "push-bikes",
+                      "wvrs": [
+                        {
+                          "wvl": "also",
+                          "wva": "push bicycles"
+                        }
+                      ],
+                      "wsls": [
+                        "British"
+                      ]
+                    },
+                    {
+                      "wd": "two-wheelers"
+                    },
+                    {
+                      "wd": "velocipedes",
+                      "wsls": [
+                        "archaic"
+                      ]
+                    }
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "as in tandem bicycles, ten-speeds"
+    ]
+  },
+  {
+    "meta": {
+      "id": "mountain man",
+      "uuid": "ab0b11e2-2ae2-416d-bf7f-927f46408167",
+      "src": "CTcompile",
+      "section": "alpha",
+      "stems": [
+        "mountain man"
+      ],
+      "syns": [
+        [
+          "bushranger",
+          "woodsman",
+          "explorer",
+          "pathfinder",
+          "trailblazer",
+          "colonial",
+          "colonist",
+          "colonizer",
+          "frontiersman",
+          "homesteader",
+          "pioneer",
+          "settler"
+        ]
+      ],
+      "ants": [],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "mountain man"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "as in {it}woodsman{/it}, {it}bushranger{/it}"
+                  ]
+                ],
+                "sim_list": [
+                  [
+                    {
+                      "wd": "bushranger"
+                    },
+                    {
+                      "wd": "woodsman"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "explorer"
+                    },
+                    {
+                      "wd": "pathfinder"
+                    },
+                    {
+                      "wd": "trailblazer"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "colonial"
+                    },
+                    {
+                      "wd": "colonist"
+                    },
+                    {
+                      "wd": "colonizer"
+                    },
+                    {
+                      "wd": "frontiersman"
+                    },
+                    {
+                      "wd": "homesteader"
+                    },
+                    {
+                      "wd": "pioneer"
+                    },
+                    {
+                      "wd": "settler"
+                    }
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "as in woodsman, bushranger"
+    ]
+  },
+  {
+    "meta": {
+      "id": "mountain men",
+      "uuid": "a9f3f166-ebf5-4eda-835c-18d19c6f454c",
+      "src": "CTcompile",
+      "section": "alpha",
+      "stems": [
+        "mountain men"
+      ],
+      "syns": [
+        [
+          "bushrangers",
+          "woodsmen",
+          "explorers",
+          "pathfinders",
+          "trailblazers",
+          "colonials",
+          "colonists",
+          "colonizers",
+          "frontiersmen",
+          "homesteaders",
+          "pioneers",
+          "settlers"
+        ]
+      ],
+      "ants": [],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "mountain men"
+    },
+    "fl": "noun",
+    "sls": [
+      "plural of {d_link|mountain man|mountain man}"
+    ],
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "as in {it}woodsmen{/it}, {it}bushrangers{/it}"
+                  ]
+                ],
+                "sim_list": [
+                  [
+                    {
+                      "wd": "bushrangers"
+                    },
+                    {
+                      "wd": "woodsmen"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "explorers"
+                    },
+                    {
+                      "wd": "pathfinders"
+                    },
+                    {
+                      "wd": "trailblazers"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "colonials"
+                    },
+                    {
+                      "wd": "colonists"
+                    },
+                    {
+                      "wd": "colonizers"
+                    },
+                    {
+                      "wd": "frontiersmen"
+                    },
+                    {
+                      "wd": "homesteaders"
+                    },
+                    {
+                      "wd": "pioneers"
+                    },
+                    {
+                      "wd": "settlers"
+                    }
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "as in woodsmen, bushrangers"
+    ]
+  },
+  {
+    "meta": {
+      "id": "mountain range",
+      "uuid": "510cab6d-bff3-4d8f-8bd0-cf09b500fad3",
+      "src": "CTcompile",
+      "section": "alpha",
+      "stems": [
+        "mountain range"
+      ],
+      "syns": [
+        [
+          "cordillera",
+          "range",
+          "sierra",
+          "alp",
+          "hump",
+          "mount",
+          "mountain",
+          "peak",
+          "inselberg",
+          "knob",
+          "seamount",
+          "aiguille",
+          "horn",
+          "mountaintop",
+          "pinnacle",
+          "summit"
+        ]
+      ],
+      "ants": [
+        [
+          "basin",
+          "bowl",
+          "depression",
+          "hollow",
+          "vale",
+          "valley"
+        ]
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "mountain range"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "as in {it}range{/it}, {it}sierra{/it}"
+                  ]
+                ],
+                "sim_list": [
+                  [
+                    {
+                      "wd": "cordillera"
+                    },
+                    {
+                      "wd": "range"
+                    },
+                    {
+                      "wd": "sierra"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "alp"
+                    },
+                    {
+                      "wd": "hump"
+                    },
+                    {
+                      "wd": "mount"
+                    },
+                    {
+                      "wd": "mountain"
+                    },
+                    {
+                      "wd": "peak"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "inselberg"
+                    },
+                    {
+                      "wd": "knob"
+                    },
+                    {
+                      "wd": "seamount"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "aiguille"
+                    },
+                    {
+                      "wd": "horn"
+                    },
+                    {
+                      "wd": "mountaintop"
+                    },
+                    {
+                      "wd": "pinnacle"
+                    },
+                    {
+                      "wd": "summit"
+                    }
+                  ]
+                ],
+                "opp_list": [
+                  [
+                    {
+                      "wd": "basin"
+                    },
+                    {
+                      "wd": "bowl"
+                    },
+                    {
+                      "wd": "depression"
+                    },
+                    {
+                      "wd": "hollow"
+                    },
+                    {
+                      "wd": "vale"
+                    },
+                    {
+                      "wd": "valley"
+                    }
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "as in range, sierra"
+    ]
+  },
+  {
+    "meta": {
+      "id": "mountain ranges",
+      "uuid": "ab503f6b-c07b-4eb0-91c7-f2c52c8839ae",
+      "src": "CTcompile",
+      "section": "alpha",
+      "stems": [
+        "mountain ranges"
+      ],
+      "syns": [
+        [
+          "cordilleras",
+          "ranges",
+          "sierras",
+          "alps",
+          "humps",
+          "mountains",
+          "mounts",
+          "peaks",
+          "inselbergs",
+          "knobs",
+          "seamounts",
+          "aiguilles",
+          "horns",
+          "mountaintops",
+          "pinnacles",
+          "summits"
+        ]
+      ],
+      "ants": [
+        [
+          "basins",
+          "bowls",
+          "depressions",
+          "hollows",
+          "vales",
+          "valleys"
+        ]
+      ],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "mountain ranges"
+    },
+    "fl": "noun",
+    "sls": [
+      "plural of {d_link|mountain range|mountain range}"
+    ],
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "as in {it}ranges{/it}, {it}sierras{/it}"
+                  ]
+                ],
+                "sim_list": [
+                  [
+                    {
+                      "wd": "cordilleras"
+                    },
+                    {
+                      "wd": "ranges"
+                    },
+                    {
+                      "wd": "sierras"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "alps"
+                    },
+                    {
+                      "wd": "humps"
+                    },
+                    {
+                      "wd": "mountains"
+                    },
+                    {
+                      "wd": "mounts"
+                    },
+                    {
+                      "wd": "peaks"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "inselbergs",
+                      "wvrs": [
+                        {
+                          "wvl": "also",
+                          "wva": "inselberge"
+                        }
+                      ]
+                    },
+                    {
+                      "wd": "knobs"
+                    },
+                    {
+                      "wd": "seamounts"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "aiguilles"
+                    },
+                    {
+                      "wd": "horns"
+                    },
+                    {
+                      "wd": "mountaintops"
+                    },
+                    {
+                      "wd": "pinnacles"
+                    },
+                    {
+                      "wd": "summits"
+                    }
+                  ]
+                ],
+                "opp_list": [
+                  [
+                    {
+                      "wd": "basins"
+                    },
+                    {
+                      "wd": "bowls"
+                    },
+                    {
+                      "wd": "depressions"
+                    },
+                    {
+                      "wd": "hollows"
+                    },
+                    {
+                      "wd": "vales"
+                    },
+                    {
+                      "wd": "valleys"
+                    }
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "as in ranges, sierras"
+    ]
+  },
+  {
+    "meta": {
+      "id": "mountain sickness",
+      "uuid": "4c824aa0-c62e-4d90-ad8c-ee23d4e4f1db",
+      "src": "CTcompile",
+      "section": "alpha",
+      "stems": [
+        "mountain sickness"
+      ],
+      "syns": [
+        [
+          "airsickness",
+          "altitude sickness",
+          "car sickness",
+          "morning sickness",
+          "motion sickness",
+          "seasickness",
+          "qualm",
+          "nausea",
+          "nauseousness",
+          "qualmishness",
+          "queasiness",
+          "queerness",
+          "sickness",
+          "squeamishness"
+        ]
+      ],
+      "ants": [],
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "mountain sickness"
+    },
+    "fl": "noun",
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "dt": [
+                  [
+                    "text",
+                    "as in {it}morning sickness{/it}, {it}altitude sickness{/it}"
+                  ]
+                ],
+                "sim_list": [
+                  [
+                    {
+                      "wd": "airsickness"
+                    },
+                    {
+                      "wd": "altitude sickness"
+                    },
+                    {
+                      "wd": "car sickness"
+                    },
+                    {
+                      "wd": "morning sickness"
+                    },
+                    {
+                      "wd": "motion sickness"
+                    },
+                    {
+                      "wd": "seasickness"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "qualm"
+                    }
+                  ],
+                  [
+                    {
+                      "wd": "nausea"
+                    },
+                    {
+                      "wd": "nauseousness"
+                    },
+                    {
+                      "wd": "qualmishness"
+                    },
+                    {
+                      "wd": "queasiness"
+                    },
+                    {
+                      "wd": "queerness"
+                    },
+                    {
+                      "wd": "sickness"
+                    },
+                    {
+                      "wd": "squeamishness"
+                    }
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "shortdef": [
+      "as in morning sickness, altitude sickness"
+    ]
+  }
+]

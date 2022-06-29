@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wordypkg", "wordypkg\wordypkg.csproj", "{D4E12BE6-ABE4-4AB6-BBCA-51D2A6BF3E78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4E12BE6-ABE4-4AB6-BBCA-51D2A6BF3E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E12BE6-ABE4-4AB6-BBCA-51D2A6BF3E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E12BE6-ABE4-4AB6-BBCA-51D2A6BF3E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E12BE6-ABE4-4AB6-BBCA-51D2A6BF3E78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F03FC57-A334-4F2D-92C9-C0586E62BD45}
+	EndGlobalSection
+EndGlobal

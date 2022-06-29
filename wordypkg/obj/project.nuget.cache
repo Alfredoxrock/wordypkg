@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mZSmjil4a58ROUie4HfAzR/mFP7cCKvWDTU7mkzNlqQhohKNdsKky8og7pJRkGqxLV3RHlSSO3cIAbCTkevUoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alf_b\\Desktop\\wordypkg\\wordypkg\\wordypkg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alf_b\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

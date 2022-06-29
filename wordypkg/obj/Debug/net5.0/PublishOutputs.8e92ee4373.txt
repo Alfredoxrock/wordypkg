@@ -1,0 +1,6 @@
+C:\Users\alf_b\Desktop\wordypkg\wordypkg\bin\Debug\net5.0\publish\wordypkg.exe
+C:\Users\alf_b\Desktop\wordypkg\wordypkg\bin\Debug\net5.0\publish\wordypkg.dll
+C:\Users\alf_b\Desktop\wordypkg\wordypkg\bin\Debug\net5.0\publish\wordypkg.deps.json
+C:\Users\alf_b\Desktop\wordypkg\wordypkg\bin\Debug\net5.0\publish\wordypkg.runtimeconfig.json
+C:\Users\alf_b\Desktop\wordypkg\wordypkg\bin\Debug\net5.0\publish\wordypkg.pdb
+C:\Users\alf_b\Desktop\wordypkg\wordypkg\bin\Debug\net5.0\publish\Newtonsoft.Json.dll
