@@ -1,2 +1,3 @@
 # wordypkg
-In process
+Documentation pending
+
