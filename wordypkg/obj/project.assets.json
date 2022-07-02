@@ -53,7 +53,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
       "projectUniqueName": "C:\\Users\\alf_b\\Desktop\\wordypkg\\wordypkg\\wordypkg.csproj",
       "projectName": "wordypkg",

@@ -13,7 +13,10 @@
 	  <PackageTags>Vocabulary, Words, Definitions, Diccionary</PackageTags>
 	  <PackageIcon>Diccionary_43414.png</PackageIcon>
 	  <PackageIconUrl />
-	  <ApplicationIcon>C:\Users\alf_b\Downloads\Diccionary_43414.ico</ApplicationIcon>
+	  <ApplicationIcon>Diccionary_43414.ico</ApplicationIcon>
+	  <Version>1.0.1</Version>
+	  <Nullable>warnings</Nullable>
+	  <PackageReleaseNotes>These new version has new commands</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>

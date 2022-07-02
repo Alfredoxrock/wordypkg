@@ -22,18 +22,25 @@ namespace wordypkg
                 Environment.Exit(0);
             }
             request(args[0]);
-            if(args[1] != null && args[1] == "example")
+
+            if(args.Length > 1)
             {
-                examples(args[0]);
+                if (args[1] != null && args[1] == "example")
+                {
+                    examples(args[0]);
+                }
+                else if (args[1] != null && args[1] == "synonyms")
+                {
+                    synonym(args[0]);
+                }
+                else if (args[1] != null && args[1] == "antonyms")
+                {
+                    antonym(args[0]);
+                }
             }
-            else if(args[1] != null && args[1] == "synonyms")
-            {
-                synonym(args[0]);
-            }
-            else if(args[1] != null && args[1] == "antonyms")
-            {
-                antonym(args[0]);
-            }
+
+            
+            
 
 
 
