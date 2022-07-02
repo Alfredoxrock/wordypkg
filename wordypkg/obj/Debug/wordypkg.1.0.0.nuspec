@@ -3,11 +3,17 @@
   <metadata>
     <id>wordypkg</id>
     <version>1.0.0</version>
-    <authors>wordypkg</authors>
+    <authors>Alfredoxrock</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>Diccionary_43414.png</icon>
     <description>Package Description</description>
+    <tags>Vocabulary, Words, Definitions, Diccionary</tags>
     <packageTypes>
       <packageType name="DotnetTool" />
     </packageTypes>
+    <repository url="https://github.com/Alfredoxrock/wordypkg" />
   </metadata>
   <files>
     <file src="C:\Users\alf_b\Desktop\wordypkg\wordypkg\obj\DotnetToolSettings.xml" target="tools\net5.0\any\DotnetToolSettings.xml" />
@@ -16,5 +22,6 @@
     <file src="C:\Users\alf_b\Desktop\wordypkg\wordypkg\bin\Debug\net5.0\publish\wordypkg.runtimeconfig.json" target="tools\net5.0\any\wordypkg.runtimeconfig.json" />
     <file src="C:\Users\alf_b\Desktop\wordypkg\wordypkg\bin\Debug\net5.0\publish\wordypkg.pdb" target="tools\net5.0\any\wordypkg.pdb" />
     <file src="C:\Users\alf_b\Desktop\wordypkg\wordypkg\bin\Debug\net5.0\publish\Newtonsoft.Json.dll" target="tools\net5.0\any\Newtonsoft.Json.dll" />
+    <file src="C:\Users\alf_b\Downloads\Diccionary_43414.png" target="Diccionary_43414.png" />
   </files>
 </package>

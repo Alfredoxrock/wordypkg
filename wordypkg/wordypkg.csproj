@@ -6,10 +6,25 @@
 	  <PackAsTool>true</PackAsTool>
 	  <ToolCommandName>wordy</ToolCommandName>
 	  <PackageOutputPath>./nupkg</PackageOutputPath>
+	  <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+	  <RepositoryUrl>https://github.com/Alfredoxrock/wordypkg</RepositoryUrl>
+	  <Authors>Alfredoxrock</Authors>
+	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+	  <PackageTags>Vocabulary, Words, Definitions, Diccionary</PackageTags>
+	  <PackageIcon>Diccionary_43414.png</PackageIcon>
+	  <PackageIconUrl />
+	  <ApplicationIcon>C:\Users\alf_b\Downloads\Diccionary_43414.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\Downloads\Diccionary_43414.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
